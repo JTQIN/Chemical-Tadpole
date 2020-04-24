@@ -87,7 +87,7 @@ load('input_twophase101_10yr_P0.5mmyr_E0.1mmyr.mat')  % input grids
 p.Estepfactor = 1.5;  % factor by which this changes in the imposed step.
     % E.g., a factor of 1.5 would be a 50% increase.
 p.experiment_type = 'tectonic';
-p.tf = 1e3;  % duration of simulation (years)
+p.tf = 1e6;  % duration of simulation (years)
 run_name = 'test';
 
 % Save inputs as struct for the output.
