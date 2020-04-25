@@ -1,5 +1,7 @@
-% Script for computing coevolution of topography and soil chemical
-% weathering, by Ken Ferrier and Taylor Perron.
+% Script for computing the coevolution of topography and soil chemical
+% weathering, associated with the manuscript in review, "The importance of
+% hillslope scale in responses of chemical erosion rate to change in
+% tectonics and climate", by Ken Ferrier and Taylor Perron.
 %
 % Input grids and parameters:
 %
